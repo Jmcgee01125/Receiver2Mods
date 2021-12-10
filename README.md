@@ -1,8 +1,4 @@
-# Receiver2Mods
-
-Receiver 2 Mod dlls
-
----
+# Receiver 2 Mods
 
 To install, download any single dll file and put it in `Receiver 2\Receiver2_Data\Managed` wherever the game is installed.
   If you're not familiar with GitHub, here are some more specific instructions on downloading:
